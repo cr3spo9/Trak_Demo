@@ -15,7 +15,7 @@ const WebcamCapture = () => {
             ref={webcamRef}
             screenshotFormat="image/jpeg"
             width='100%'
-            mirrored={true}
+            mirrored={false}
         />
 
       </div>
