@@ -1,0 +1,19 @@
+.progress-pos {
+    min-width: 400px;
+    max-width: 400px;
+    transform: rotate(-90deg);
+    position: absolute;
+    text-align: center;
+    top: 430px;
+    right: -80px;
+  }
+
+  div.score {
+    position: absolute;
+    text-align: center;
+    top: 660px;
+    right: 25px;
+    width: 188px;
+    height: 100px;
+  }
+

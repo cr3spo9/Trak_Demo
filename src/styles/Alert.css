@@ -1,0 +1,12 @@
+div.alert {
+    position: absolute;
+    width: 75%;
+    top: 70%;
+    right: 20%;
+  }
+
+.MuiAlertTitle-root	{
+    text-align: left;
+    font-weight: bold !important;
+    font-size: large !important;
+}
