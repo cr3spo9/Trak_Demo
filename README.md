@@ -1,10 +1,28 @@
-# Getting Started with Create React App
+# What I have done
+
+With a React project from scratch:
+    - Home page that sends you to the Trak Demo using React Router
+    - SplitPane for adjustable split screen
+    - Reps counter implemented as a countdown 
+    - Score Bar with Bootstrap button. The button increases the score and the bar change its color depending on the value of the score.
+    - Text fields obtained from Material UI library that changes with the score
+    - React Webcam component to show the output of the webcam on one of the halves of the screen
+
+# To Do
+
+...
+
+# Getting Started with Trak Demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn install`
+
+Installs all the modules included in 'package.json' and required to run the app
 
 ### `yarn start`
 
