@@ -1,12 +1,12 @@
 # What I have done
 
 With a React project from scratch:
-    - Home page that sends you to the Trak Demo using React Router
-    - SplitPane for adjustable split screen
-    - Reps counter implemented as a countdown 
-    - Score Bar with Bootstrap button. The button increases the score and the bar change its color depending on the value of the score.
-    - Text fields obtained from Material UI library that changes with the score
-    - React Webcam component to show the output of the webcam on one of the halves of the screen
+- Home page that sends you to the Trak Demo using React Router
+- SplitPane for adjustable split screen
+- Reps counter implemented as a countdown 
+- Score Bar with Bootstrap button. The button increases the score and the bar change its color depending on the value of the score.
+- Text fields obtained from Material UI library that changes with the score
+- React Webcam component to show the output of the webcam on one of the halves of the screen
 
 # To Do
 
